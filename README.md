@@ -125,4 +125,5 @@ Check out the full workflow and user journey of Sirati in action:
 <p align="center">
   <video src="screen/video_2026-06-17_00-38-19.mp4" width="100%" controls></video>
 </p>
+-----
 
