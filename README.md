@@ -118,12 +118,5 @@ Simulates automated corporate entry qualification loops.
   <img src="screen/05_explore_skills.png" alt="Skills Discovery Result" width="85%">
 </p>
 
------
-### 🎥 System Demo Video
-Check out the full workflow and user journey of Sirati in action:
 
-<p align="center">
-  <video src="screen/video_2026-06-17_00-38-19.mp4" width="100%" controls></video>
-</p>
------
 
